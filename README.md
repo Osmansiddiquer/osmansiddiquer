@@ -58,4 +58,5 @@ Welcome to my GitHub! I'm a sophomore at MIT majoring in **Computer Science and 
 
 ---
 
-### Thanks for stopping by! Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or discuss cool ideas. 🚀
+**Thanks for stopping by! Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or discuss cool ideas. 🚀
+**
