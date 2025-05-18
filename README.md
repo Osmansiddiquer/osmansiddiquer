@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub! I'm a sophomore at MIT majoring in **Computer Science and Engineering (6-3)**. I love working on **AI, machine learning, and software development**, and I'm always up for a challenge—whether it's building new tools, improving existing ones, or just exploring new ideas. _This was painful to write_
+I'm a sophomore at **MIT majoring in Computer Science and Engineering (6-3)**. My interests span machine learning, distributed systems, and intelligent agent design. I enjoy building efficient, scalable solutions—whether it’s improving complex codebases, designing distributed architectures, or creating innovative AI-powered tools. Always exploring, always building. _This was painful to write_
 
 ---
 
