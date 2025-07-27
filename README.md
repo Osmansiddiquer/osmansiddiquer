@@ -6,7 +6,7 @@ I'm a rising-junior at **MIT majoring in Computer Science and Engineering**. My 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Project MANTIS** as part of my UROP, focusing on AI-driven agents and knowledge representation.
+- 🔭 I’m currently working on the **Finch Tesnor Compiler** project as part of my UROP.
 - 😍 I like **strongly typed languages**
 - 🌱 I’m currently learning **software design, knowledge graphs, agentification**.
 - 👯 I’m open to collaborate on **ML projects, full-stack development, and any nerdy C++ code**.
