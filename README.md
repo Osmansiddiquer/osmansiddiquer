@@ -13,6 +13,7 @@ I'm a rising-junior at **MIT majoring in Computer Science and Engineering**. My 
 - 🤔 I’m exploring **better UX for AI interactions and improving AI-human collaboration**.
 - 💬 Ask me about **Machine Learning, Python, React, robotics, and game development**.
 - 📫 How to reach me: **osmansiddiquer@gmail.com**.
+- Linkedin for those who care: [Osman Siddique](https://www.linkedin.com/in/osman-siddiquer/)
 
 ---
 
