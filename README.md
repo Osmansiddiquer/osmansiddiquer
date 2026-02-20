@@ -6,12 +6,12 @@ I'm a rising-junior at **MIT majoring in Computer Science and Engineering**. My 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on the **Finch Tesnor Compiler** project as part of my UROP.
+- 🔭 I’m currently working as the CTO of Sciloop where we test models in frontier STEM problems.
 - 😍 I like **strongly typed languages**
 - 🌱 I’m currently learning **software design, knowledge graphs, agentification**.
 - 👯 I’m open to collaborate on **ML projects, full-stack development, and any nerdy C++ code**.
 - 🤔 I’m exploring **better UX for AI interactions and improving AI-human collaboration**.
-- 💬 Ask me about **Machine Learning, Python, React, robotics, and game development**.
+- 💬 Ask me about **Agents, Machine Learning, Robotics, and game development**.
 - 📫 How to reach me: **osmansiddiquer@gmail.com**.
 - Linkedin for those who care: [Osman Siddique](https://www.linkedin.com/in/osman-siddiquer/)
 
