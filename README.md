@@ -9,7 +9,7 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 
 [![Email](https://img.shields.io/badge/-osmansiddiquer%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:osmansiddiquer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Osman%20Siddique-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-siddiquer/)
-[![Sciloop](https://img.shields.io/badge/-trysciloop.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://trysciloop.dev)
+[![Sciloop](https://img.shields.io/badge/-sciloop.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://sciloop.dev)
 [![Portfolio](https://img.shields.io/badge/-osman.siddiquer.com-1a1a1a?style=flat-square&logo=gnometerminal&logoColor=white)](https://osman.siddiquer.com/)
 
 </div>
@@ -18,7 +18,7 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 
 ### Currently
 
-- **CTO at [Sciloop](https://trysciloop.dev)** — benchmarking frontier models against real STEM problems
+- **CTO at [Sciloop](https://sciloop.dev)** — benchmarking frontier models against real STEM problems
 - Pretraining small encoder/language models from scratch under hard parameter and GPU-hour budgets
 - Writing MCP servers and multi-agent pipelines to make LLM-assisted engineering less painful
 - Open to ML, agent infra, and full-stack collaboration — reach me at **osmansiddiquer@gmail.com**
@@ -39,7 +39,7 @@ Ships with a full technical report and a reproducible checkpoint lineage.
 </td>
 </tr>
 <tr>
-<td><b><a href="https://trysciloop.dev">Sciloop</a></b></td>
+<td><b><a href="https://sciloop.dev">Sciloop</a></b></td>
 <td>
 The company I'm building as CTO — we benchmark frontier models against real STEM problems, so
 teams can tell whether a model actually reasons or just pattern-matches the training set.
