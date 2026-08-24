@@ -21,7 +21,7 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 - **CTO at [Sciloop](https://sciloop.dev).** Sourcing and curating the STEM data that moves the needle on frontier model training
 - Pretraining small encoder/language models from scratch under hard parameter and GPU-hour budgets
 - Writing MCP servers and multi-agent pipelines to make LLM-assisted engineering less painful
-- Open to ML, agent infra, and full-stack collaboration. Reach me at **osmansiddiquer@gmail.com**
+- Open to talking with labs and teams who need better STEM data for training. Reach me at **osmansiddiquer@gmail.com**
 
 <br>
 
