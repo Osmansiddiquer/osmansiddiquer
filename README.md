@@ -48,11 +48,12 @@ equations, coupled systems, implicit and polar curves, then lets you inspect ext
 </td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Osmansiddiquer/pasa">LitFinder</a></b></td>
+<td><b><a href="https://github.com/Sciloop-Labs/LitFinder">LitFinder</a></b></td>
 <td>
-An academic paper-search agent, built on top of ByteDance's PaSa, that I adapted to hunt down and
-surface STEM literature for Sciloop's data pipeline instead of general-purpose search.
-<br><sub>Python · LLM agent · literature retrieval</sub>
+A modular pipeline that takes a natural-language query, generates search criteria, pulls open-access
+papers from Semantic Scholar, chunks and embeds them, then reranks for relevance, built to source
+STEM literature for Sciloop's data pipeline.
+<br><sub>Python · Gemini · FAISS · VoyageAI</sub>
 </td>
 </tr>
 <tr>
