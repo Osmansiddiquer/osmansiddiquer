@@ -18,7 +18,7 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 
 ### Currently
 
-- **CTO at [Sciloop](https://sciloop.dev)** — benchmarking frontier models against real STEM problems
+- **CTO at [Sciloop](https://sciloop.dev)** — sourcing and curating the STEM data that moves the needle on frontier model training
 - Pretraining small encoder/language models from scratch under hard parameter and GPU-hour budgets
 - Writing MCP servers and multi-agent pipelines to make LLM-assisted engineering less painful
 - Open to ML, agent infra, and full-stack collaboration — reach me at **osmansiddiquer@gmail.com**
@@ -41,9 +41,9 @@ Ships with a full technical report and a reproducible checkpoint lineage.
 <tr>
 <td><b><a href="https://sciloop.dev">Sciloop</a></b></td>
 <td>
-The company I'm building as CTO — we benchmark frontier models against real STEM problems, so
-teams can tell whether a model actually reasons or just pattern-matches the training set.
-<br><sub>TypeScript · eval infrastructure</sub>
+The company I'm building as CTO — we source and curate high-quality STEM data that labs use
+to move the needle on frontier model training, where the bottleneck is data, not compute.
+<br><sub>TypeScript · data infrastructure</sub>
 </td>
 </tr>
 <tr>
