@@ -25,7 +25,7 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 
 <br>
 
-### Featured builds
+### Side quests
 
 <table>
 <tr>
@@ -36,14 +36,6 @@ pretrained on a single <b>4&nbsp;GB laptop GPU</b> under a hard <b>30M-parameter
 27.9M params, 3B tokens, 35.4 GPU-hours, 85–86% SST-2 (vs. 92.7% for BERT-base at 4× the size).
 Ships with a full technical report and a reproducible checkpoint lineage.
 <br><sub>Python · PyTorch · from-scratch transformer</sub>
-</td>
-</tr>
-<tr>
-<td><b><a href="https://sciloop.dev">Sciloop</a></b></td>
-<td>
-We source and curate high-quality STEM data that labs use to move the needle on frontier model
-training, where the bottleneck is increasingly data, not compute.
-<br><sub>TypeScript · data infrastructure</sub>
 </td>
 </tr>
 <tr>
