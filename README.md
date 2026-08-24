@@ -48,11 +48,11 @@ equations, coupled systems, implicit and polar curves, then lets you inspect ext
 </td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Osmansiddiquer/MajorTOM-Dataset-For-Forest-Segmentation">MajorTOM Forest Segmentation</a></b></td>
+<td><b><a href="https://github.com/Osmansiddiquer/pasa">LitFinder</a></b></td>
 <td>
-Dataset and model work from a TUKL research internship: preparing Major-TOM satellite imagery
-alongside PALSAR forest/non-forest labels for self-supervised remote-sensing segmentation.
-<br><sub>Python · remote sensing · self-supervised learning</sub>
+An academic paper-search agent, built on top of ByteDance's PaSa, that I adapted to hunt down and
+surface STEM literature for Sciloop's data pipeline instead of general-purpose search.
+<br><sub>Python · LLM agent · literature retrieval</sub>
 </td>
 </tr>
 <tr>
