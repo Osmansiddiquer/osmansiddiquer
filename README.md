@@ -4,7 +4,7 @@
 
 <sub>MIT · Computer Science &amp; Engineering</sub>
 
-I train small language models under hard hardware caps, and spend the rest
+I like to train small language models on modest hardware when free, and spend the rest
 of my time on full-stack builds, ML tooling, and eval infrastructure.
 
 [![Email](https://img.shields.io/badge/-osmansiddiquer%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:osmansiddiquer@gmail.com)
