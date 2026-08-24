@@ -18,10 +18,10 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 
 ### Currently
 
-- **CTO at [Sciloop](https://sciloop.dev)** — sourcing and curating the STEM data that moves the needle on frontier model training
+- **CTO at [Sciloop](https://sciloop.dev).** Sourcing and curating the STEM data that moves the needle on frontier model training
 - Pretraining small encoder/language models from scratch under hard parameter and GPU-hour budgets
 - Writing MCP servers and multi-agent pipelines to make LLM-assisted engineering less painful
-- Open to ML, agent infra, and full-stack collaboration — reach me at **osmansiddiquer@gmail.com**
+- Open to ML, agent infra, and full-stack collaboration. Reach me at **osmansiddiquer@gmail.com**
 
 <br>
 
@@ -31,8 +31,8 @@ of my time on full-stack builds, ML tooling, and eval infrastructure.
 <tr>
 <td width="120"><b><a href="https://github.com/Osmansiddiquer/benchtop-bert">benchtop-bert</a></b></td>
 <td>
-A BERT-style encoder written from scratch — attention, blocks, embeddings, MLM head, all hand-rolled —
-and pretrained on a single <b>4&nbsp;GB laptop GPU</b> under a hard <b>30M-parameter cap</b>.
+A BERT-style encoder written from scratch: attention, blocks, embeddings, MLM head, all hand-rolled,
+pretrained on a single <b>4&nbsp;GB laptop GPU</b> under a hard <b>30M-parameter cap</b>.
 27.9M params, 3B tokens, 35.4 GPU-hours, 85–86% SST-2 (vs. 92.7% for BERT-base at 4× the size).
 Ships with a full technical report and a reproducible checkpoint lineage.
 <br><sub>Python · PyTorch · from-scratch transformer</sub>
@@ -41,18 +41,43 @@ Ships with a full technical report and a reproducible checkpoint lineage.
 <tr>
 <td><b><a href="https://sciloop.dev">Sciloop</a></b></td>
 <td>
-The company I'm building as CTO — we source and curate high-quality STEM data that labs use
-to move the needle on frontier model training, where the bottleneck is data, not compute.
+We source and curate high-quality STEM data that labs use to move the needle on frontier model
+training, where the bottleneck is increasingly data, not compute.
 <br><sub>TypeScript · data infrastructure</sub>
 </td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Osmansiddiquer/Fluxion">Fluxion</a></b></td>
 <td>
-A Desmos-like grapher built specifically for ODEs — types, solves, and plots first- and higher-order
+A Desmos-like grapher built specifically for ODEs: it types, solves, and plots first- and higher-order
 equations, coupled systems, implicit and polar curves, then lets you inspect extrema and intersections.
 <a href="https://osmansiddiquer.github.io/Fluxion/">Live →</a>
 <br><sub>TypeScript · numerical methods</sub>
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Osmansiddiquer/MajorTOM-Dataset-For-Forest-Segmentation">MajorTOM Forest Segmentation</a></b></td>
+<td>
+Dataset and model work from a TUKL research internship: preparing Major-TOM satellite imagery
+alongside PALSAR forest/non-forest labels for self-supervised remote-sensing segmentation.
+<br><sub>Python · remote sensing · self-supervised learning</sub>
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Osmansiddiquer/2D-Inverse-Kinematic-Animation">2D Inverse Kinematics</a></b></td>
+<td>
+Real-time inverse kinematics for a two-link robotic arm built for a friend's hardware project:
+solves joint angles from a target x/y coordinate with both motors constrained to the base.
+<br><sub>JavaScript · robotics</sub>
+</td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Osmansiddiquer/pong">Pong</a></b></td>
+<td>
+My earliest project still online: a console Pong built in plain C against the Windows console API,
+focused on game physics and paddle/ball control. Years later I compiled it to WebAssembly and
+embedded it in my <a href="https://osman.siddiquer.com/">portfolio</a>, running live on a WebGL terminal.
+<br><sub>C · Windows console API</sub>
 </td>
 </tr>
 </table>
@@ -74,5 +99,5 @@ equations, coupled systems, implicit and polar curves, then lets you inspect ext
 <br>
 
 <div align="center">
-<sub>Thanks for stopping by — open an issue on any repo above if you want to talk shop.</sub>
+<sub>Thanks for stopping by. Open an issue on any repo above if you want to talk shop.</sub>
 </div>
