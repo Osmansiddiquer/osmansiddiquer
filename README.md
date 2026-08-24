@@ -80,6 +80,15 @@ embedded it in my <a href="https://osman.siddiquer.com/">portfolio</a>, running 
 <br><sub>C · Windows console API</sub>
 </td>
 </tr>
+<tr>
+<td><b><a href="https://github.com/Osmansiddiquer/Web-Development-Progress">Web Development Progress</a></b></td>
+<td>
+Where I learned HTML, CSS, and JS from scratch: a growing site built page by page with the MDN
+docs open in the other tab, kept online as a record of that first pass at web fundamentals.
+<a href="https://osmansiddiquer.github.io/Web-Development-Progress/">Live →</a>
+<br><sub>HTML · CSS · JavaScript</sub>
+</td>
+</tr>
 </table>
 
 <br>
